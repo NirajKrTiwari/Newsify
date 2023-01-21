@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/NirajKrTiwari.github.io/Newsify/static/css/main.3f92e464.css",
-    "main.js": "/NirajKrTiwari.github.io/Newsify/static/js/main.dbf721bb.js",
-    "static/js/787.4c026eef.chunk.js": "/NirajKrTiwari.github.io/Newsify/static/js/787.4c026eef.chunk.js",
-    "static/media/loading.gif": "/NirajKrTiwari.github.io/Newsify/static/media/loading.ec7f526d5756a0ca870e.gif",
-    "index.html": "/NirajKrTiwari.github.io/Newsify/index.html",
-    "main.3f92e464.css.map": "/NirajKrTiwari.github.io/Newsify/static/css/main.3f92e464.css.map",
-    "main.dbf721bb.js.map": "/NirajKrTiwari.github.io/Newsify/static/js/main.dbf721bb.js.map",
-    "787.4c026eef.chunk.js.map": "/NirajKrTiwari.github.io/Newsify/static/js/787.4c026eef.chunk.js.map"
+    "main.css": "/Newsify/static/css/main.3f92e464.css",
+    "main.js": "/Newsify/static/js/main.5f814609.js",
+    "static/js/787.4c026eef.chunk.js": "/Newsify/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/Newsify/static/media/loading.ec7f526d5756a0ca870e.gif",
+    "index.html": "/Newsify/index.html",
+    "main.3f92e464.css.map": "/Newsify/static/css/main.3f92e464.css.map",
+    "main.5f814609.js.map": "/Newsify/static/js/main.5f814609.js.map",
+    "787.4c026eef.chunk.js.map": "/Newsify/static/js/787.4c026eef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f92e464.css",
-    "static/js/main.dbf721bb.js"
+    "static/js/main.5f814609.js"
   ]
 }
